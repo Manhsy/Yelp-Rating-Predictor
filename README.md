@@ -12,3 +12,6 @@ Neural Network model that can predict a business's Yelp rating based on the revi
 - defined neural network model with all possible combinations of activation functions and optimizers
 - kept track of the best model using sci-kit-learn's Early Stopping
 - After model was trained, tested the model performance by passing it 5 random business review and compare it against the actual VS predicted rating 
+
+## Findings 
+- model's Root Mean Square Error: 0.25, which means, on average, the model's prediction was 0.25 off from the actual rating
